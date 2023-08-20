@@ -1,5 +1,5 @@
 # DCGAN-Implementation
-DCGAN implementation for flower image generation.
+DCGAN(Deep Convolutional Generative Adversarial Netwrok) implementation for flower image generation.
 
 [Original Dataset Page](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 
